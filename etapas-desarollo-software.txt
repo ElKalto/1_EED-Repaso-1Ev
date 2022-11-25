@@ -1,0 +1,7 @@
+analisis
+diseño
+prog
+pruebas
+implementacion
+mantenimiento
+documentacion
